@@ -85,5 +85,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanxingye&color=blue">  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=tanxingye&show_icons=true&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api?username=AidenTan-DS&show_icons=true&theme=tokyonight">
+
 </p>
