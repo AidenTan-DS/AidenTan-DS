@@ -19,7 +19,9 @@
 - Spearheaded a two-stage standardization pipeline using Database Mapping and NLP Validation, improving protocol-matching accuracy from **63% → 95%** and reducing manual review time by **85%**.  
 - Delivered a structured AI knowledge base supporting automated treatment recommendations and enabled scalable content-based retrieval with 5× query speed.  
 🏆 *3rd Place — Eberly College Data Science Poster Competition*  
-🔗 [Repository (coming soon)](#)
+🔗 [**View Repository on GitHub →**](https://github.com/AidenTan-DS/clinical-trials-llm)
+
+
 
 ---
 
