@@ -49,7 +49,8 @@
 - Applied PCA (3 components, **63% variance retained**) for dimensionality reduction.  
 - Evaluated with SSE/Silhouette, achieving Bisecting k-Means performance of **↓14% SSE & ↑10% Silhouette** vs. scikit-learn k-means++.  
 - Deployed via **Streamlit** for interactive clustering visualization.  
-🔗 [Repository (coming soon)](#)
+🔗 [**View Repository on GitHub →**](https://github.com/AidenTan-DS/bank-marketing-clustering.git)
+
 
 ---
 
