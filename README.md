@@ -30,7 +30,7 @@
 - Built a scalable CNN training pipeline using multi-resolution inputs (384/512/768) on 10K+ MRI scans.  
 - Designed cross-scale fusion with max-pooling and probability normalization, reducing the key competition metric (**weighted log-loss**) by **13%** versus the baseline.  
 - Integrated YOLOv8 localization and developed modular evaluation scripts across **9 model variants**, ranking **Top 2.5% globally** on Kaggle.  
-🔗 [Repository (coming soon)](#)
+🔗 [**View Repository on GitHub →**](https://github.com/AidenTan-DS/rsna-2024-lumbar-spine)
 
 ---
 
