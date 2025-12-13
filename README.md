@@ -11,6 +11,20 @@
 
 ---
 
+## 🧠 LeetCode Practice
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=AidenGotit" />
+</p>
+
+<p align="center">
+  <i>
+    Tracking algorithmic problem-solving progress across data structures, 
+    sliding window, binary search, greedy, and dynamic programming.
+  </i>
+</p>
+
+
 ## 🚀 Featured Projects
 
 ### 🧠 LLM-Powered Clinical Trial Data Pipeline & Treatment Recommendation System
