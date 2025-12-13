@@ -14,15 +14,16 @@
 ## 🧠 LeetCode Practice
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=AidenGotit" />
+  <img src="https://leetcard.jacoblin.cool/AidenGotit" />
 </p>
 
 <p align="center">
   <i>
-    Tracking algorithmic problem-solving progress across data structures, 
-    sliding window, binary search, greedy, and dynamic programming.
+    Consistent algorithmic problem-solving practice, covering data structures,
+    sliding window, binary search, greedy strategies, and dynamic programming.
   </i>
 </p>
+
 
 
 ## 🚀 Featured Projects
